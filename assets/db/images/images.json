@@ -1,0 +1,786 @@
+[
+    {
+      "name": ".DS_Store",
+      "extension": "",
+      "size": 6148,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "Кагура.png",
+      "extension": ".png",
+      "size": 39413851,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "аврора 2.png",
+      "extension": ".png",
+      "size": 38376839,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "аврора.png",
+      "extension": ".png",
+      "size": 42964907,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "алиса (с29).png",
+      "extension": ".png",
+      "size": 28827390,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "алиса стар.png",
+      "extension": ".png",
+      "size": 49717033,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "алиса.png",
+      "extension": ".png",
+      "size": 44629562,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "ангела.png",
+      "extension": ".png",
+      "size": 55142205,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "беатрис 1.png",
+      "extension": ".png",
+      "size": 33196107,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "беатрис.png",
+      "extension": ".png",
+      "size": 49609566,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "броуди 1.png",
+      "extension": ".png",
+      "size": 40934019,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "броуди.png",
+      "extension": ".png",
+      "size": 28668626,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "бруно.png",
+      "extension": ".png",
+      "size": 29460483,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "валентина стар.png",
+      "extension": ".png",
+      "size": 34650322,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "валир 1.png",
+      "extension": ".png",
+      "size": 40652243,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "валир 2.png",
+      "extension": ".png",
+      "size": 28437269,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "валир стар.png",
+      "extension": ".png",
+      "size": 40023889,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "ванван.png",
+      "extension": ".png",
+      "size": 32446402,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "вексана (с12).png",
+      "extension": ".png",
+      "size": 33482603,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "вексана 2.png",
+      "extension": ".png",
+      "size": 25154248,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "вексана.png",
+      "extension": ".png",
+      "size": 29138518,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "вэйл  1.png",
+      "extension": ".png",
+      "size": 39777925,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "вэйл 2.png",
+      "extension": ".png",
+      "size": 37859075,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "вэйл стар.png",
+      "extension": ".png",
+      "size": 27315250,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "горд (с 21).png",
+      "extension": ".png",
+      "size": 25586159,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "горд .png",
+      "extension": ".png",
+      "size": 35432969,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "горд 2.png",
+      "extension": ".png",
+      "size": 31590246,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "грена.png",
+      "extension": ".png",
+      "size": 28175560,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "заск 2.png",
+      "extension": ".png",
+      "size": 33169525,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "ив .png",
+      "extension": ".png",
+      "size": 39104454,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "ив 1.png",
+      "extension": ".png",
+      "size": 83284032,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "иксия 1.png",
+      "extension": ".png",
+      "size": 60568074,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "иксия.png",
+      "extension": ".png",
+      "size": 69527690,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "иритель.png",
+      "extension": ".png",
+      "size": 36628476,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "кагура 1.png",
+      "extension": ".png",
+      "size": 38587585,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "кагура 2.png",
+      "extension": ".png",
+      "size": 42844222,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "кагура экз.png",
+      "extension": ".png",
+      "size": 41592003,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "кадита  2.png",
+      "extension": ".png",
+      "size": 38436402,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "кадита.png",
+      "extension": ".png",
+      "size": 45239638,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "карина 1.jpg",
+      "extension": ".jpg",
+      "size": 7604665,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "карина.jpg",
+      "extension": ".jpg",
+      "size": 9139035,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "керри 1.png",
+      "extension": ".png",
+      "size": 80380449,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "кимми 1.png",
+      "extension": ".png",
+      "size": 30418060,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "кимми.png",
+      "extension": ".png",
+      "size": 23706072,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "клауд 1.png",
+      "extension": ".png",
+      "size": 34447584,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "клауд.png",
+      "extension": ".png",
+      "size": 26383966,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "клинт.png",
+      "extension": ".png",
+      "size": 35147188,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "кэрри.png",
+      "extension": ".png",
+      "size": 37590646,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "лейла 1.png",
+      "extension": ".png",
+      "size": 49164559,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "лейла 2.png",
+      "extension": ".png",
+      "size": 37317082,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "лейла 3.png",
+      "extension": ".png",
+      "size": 30988831,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "лейла.png",
+      "extension": ".png",
+      "size": 42613147,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "ло йи стар.png",
+      "extension": ".png",
+      "size": 28507716,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "люнокс 1.png",
+      "extension": ".png",
+      "size": 49831890,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "люнокс 2.png",
+      "extension": ".png",
+      "size": 40205528,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "люнокс стар.png",
+      "extension": ".png",
+      "size": 36904112,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "матильда.png",
+      "extension": ".png",
+      "size": 51764117,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "мелисса 1.png",
+      "extension": ".png",
+      "size": 51590457,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "мелисса.png",
+      "extension": ".png",
+      "size": 30217785,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "мия 1.png",
+      "extension": ".png",
+      "size": 43381353,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "мия.png",
+      "extension": ".png",
+      "size": 76860068,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "москов 1.png",
+      "extension": ".png",
+      "size": 28434406,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "москов.png",
+      "extension": ".png",
+      "size": 26874980,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "нана с1.png",
+      "extension": ".png",
+      "size": 30430549,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "нана.png",
+      "extension": ".png",
+      "size": 46439813,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "наталья 1.jpg",
+      "extension": ".jpg",
+      "size": 7422631,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "наталья.jpg",
+      "extension": ".jpg",
+      "size": 7814529,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "натан 1.png",
+      "extension": ".png",
+      "size": 39731831,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "натан.png",
+      "extension": ".png",
+      "size": 35553633,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "нова 1.png",
+      "extension": ".png",
+      "size": 44613028,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "новария.png",
+      "extension": ".png",
+      "size": 37237297,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "одетта .png",
+      "extension": ".png",
+      "size": 30329428,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "одетта 2.png",
+      "extension": ".png",
+      "size": 47827657,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "пупа 1.png",
+      "extension": ".png",
+      "size": 30002304,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "пупа.png",
+      "extension": ".png",
+      "size": 38864474,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "рафа.png",
+      "extension": ".png",
+      "size": 63052777,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "сабер 1.jpg",
+      "extension": ".jpg",
+      "size": 10910528,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "сабер 2.jpg",
+      "extension": ".jpg",
+      "size": 11885208,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "сабер.jpg",
+      "extension": ".jpg",
+      "size": 9575571,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "сесилион стар.png",
+      "extension": ".png",
+      "size": 35455371,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "фанни .png",
+      "extension": ".png",
+      "size": 66475353,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "фанни 2.jpg",
+      "extension": ".jpg",
+      "size": 9296189,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "фаша  2.png",
+      "extension": ".png",
+      "size": 36538559,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "фаша (с14).png",
+      "extension": ".png",
+      "size": 36455557,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "фаша 1.png",
+      "extension": ".png",
+      "size": 35962151,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "фаша обыч 3.png",
+      "extension": ".png",
+      "size": 32528395,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "фаша стар(2).png",
+      "extension": ".png",
+      "size": 35018806,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "франко карт миф.png",
+      "extension": ".png",
+      "size": 38247899,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "франко карта.png",
+      "extension": ".png",
+      "size": 33072557,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "ханаби 1.png",
+      "extension": ".png",
+      "size": 111255088,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "ханаби.png",
+      "extension": ".png",
+      "size": 34219957,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "харит .png",
+      "extension": ".png",
+      "size": 32742423,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "харит 1.png",
+      "extension": ".png",
+      "size": 33713722,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "хая 1.jpg",
+      "extension": ".jpg",
+      "size": 9515217,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "хая.jpg",
+      "extension": ".jpg",
+      "size": 8755411,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "циклоп (с17).png",
+      "extension": ".png",
+      "size": 27365314,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "циклоп 2.png",
+      "extension": ".png",
+      "size": 30433929,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "циклоп стар.png",
+      "extension": ".png",
+      "size": 34927307,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "циклоп.png",
+      "extension": ".png",
+      "size": 36553300,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "чанэ 2.png",
+      "extension": ".png",
+      "size": 37735228,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "чанэ стар зол.png",
+      "extension": ".png",
+      "size": 33224416,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "чанэ.png",
+      "extension": ".png",
+      "size": 40556698,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "чонг .png",
+      "extension": ".png",
+      "size": 53686141,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "чонг экз.png",
+      "extension": ".png",
+      "size": 43390047,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "эйдора (с16).png",
+      "extension": ".png",
+      "size": 39040253,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "эйдора пылающая красным.png",
+      "extension": ".png",
+      "size": 35240381,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "эйдора стар.png",
+      "extension": ".png",
+      "size": 29729544,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "эйдора.png",
+      "extension": ".png",
+      "size": 24754626,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "эмеральда  2.png",
+      "extension": ".png",
+      "size": 31492533,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "эсмеральда стар.png",
+      "extension": ".png",
+      "size": 36445808,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "эсмеральда.png",
+      "extension": ".png",
+      "size": 42219084,
+      "rarity": "undefined",
+      "text": "undefined"
+    },
+    {
+      "name": "эстес.png",
+      "extension": ".png",
+      "size": 39741546,
+      "rarity": "undefined",
+      "text": "undefined"
+    }
+  ]

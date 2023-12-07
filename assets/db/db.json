@@ -1,0 +1,19 @@
+[
+	{
+		"username": "hashfuck",
+		"first_name": "В легких больше дыма , чем воздуха",
+		"last_name": "⁤",
+		"id": 1425448286,
+		"balance": 0,
+		"rating": null,
+		"inventory": [
+			null
+		],
+		"matchInventory": [],
+		"isAdmin": true,
+		"isWaiting": true,
+		"isMatch": false,
+		"wonMatches": 0,
+		"looseMatches": 0
+	}
+]
